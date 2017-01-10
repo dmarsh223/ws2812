@@ -28,7 +28,7 @@ FastLED.show();
 FastLED.delay(1000 / FRAMES_PER_SECOND);
 
 
-//this sets the LED to a rainbow color
+//this sets the LED to a rainbow colors
 //rainbow();
 
 //this sets the LED string to a dark blue color
